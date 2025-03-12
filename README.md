@@ -1,8 +1,10 @@
-## <img src="https://cdn-icons-png.flaticon.com/512/4861/4861937.png" width="40" alt="Web"> &nbsp; Sosial Media :
+# <img src="https://cdn-icons-png.flaticon.com/512/4861/4861937.png" width="30" alt="Web">&nbsp; Sosial Media / Contact :
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/larahennn) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@larahenn) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3ggie.ab) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@3ggie.ab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3ggieab/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjZiQ2P2WiILuh--8wx3Yfg) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/3ggie.ab) [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=threads&logoColor=white)](https://www.threads.net/@3ggie.ab) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/3ggie-AB) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:3ggie.ab@gmail.com) [![Chess.com](https://img.shields.io/badge/Chess.com-%23004D00.svg?logo=chess.com&logoColor=white)](https://www.chess.com/member/eggie_ab)
 
-## <img src="https://cdn-icons-png.flaticon.com/512/567/567800.png" width="40" alt="Laptop" style="vertical-align: middle; margin-right: 10px;"> &nbsp; Tech Stack:
+
+# <img src="https://cdn-icons-png.flaticon.com/512/567/567800.png" width="30" alt="Laptop">&nbsp; Tech Stack:
 
 <a href="https://en.cppreference.com/w/">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
