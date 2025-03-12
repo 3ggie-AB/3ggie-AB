@@ -1,8 +1,8 @@
-## <span style="display: flex; align-items: center;"><img src="https://cdn-icons-png.flaticon.com/512/4861/4861937.png" width="40" alt="Laptop" style="margin-right:10px">Sosial Media :</span>
+## <img src="https://cdn-icons-png.flaticon.com/512/4861/4861937.png" width="40" alt="Web" style="vertical-align: middle; margin-right: 10px;"> Sosial Media :
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/larahennn) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@larahenn) 
 
-## <span style="display: flex; align-items: center;"><img src="https://cdn-icons-png.flaticon.com/512/567/567800.png" width="40" alt="Laptop" style="margin-right:10px">Tech Stack:</span>
+## <img src="https://cdn-icons-png.flaticon.com/512/567/567800.png" width="40" alt="Laptop" style="vertical-align: middle; margin-right: 10px;"> Tech Stack:
 
 <a href="https://en.cppreference.com/w/">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
