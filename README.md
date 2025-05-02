@@ -143,3 +143,9 @@
 
 # <img src="https://cdn-icons-png.flaticon.com/512/2223/2223102.png" width="30" alt="Laptop">&nbsp; My Skill :
 [![roadmap.sh](https://roadmap.sh/card/wide/67e7907008b58aed6c747dbf?variant=dark)](https://roadmap.sh)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/3ggie-ab/3ggie-ab/output/snake.svg" alt="Snake animation" />
+
+###
