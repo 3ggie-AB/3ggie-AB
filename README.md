@@ -1,6 +1,6 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/771/771275.png" width="30" alt="Web">&nbsp; About Me :
-### I'am Programmer, Live in Cirebon, West Java, Indonesia.<br> My Name is Egi Ahmad Baihaqi, 19 years old and currently pursuing an applied bachelor's degree at the Polytechnic Cyber Cerdika International (Poltek SCI).<br><br> I have a strong interest in Artificial Intelligence (AI) 🧠 and Crypto Currency 👑
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh5Y2djZjFoM2s5ZGVidDIwMTNzYmNsdml2NjJveG5lMmVkazhndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7HdhQA4ffttvrO/giphy.gif" width="50%" alt="pump"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg0bTI2eDE3N2p6MzUwcjNtNzc3MjQ4anlsOXFnNjd6NGdvNXEyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1eVHxFk781UxUNMul/giphy.gif" width="50%" height="50%" alt="Ai">
+### I'am Programmer, Live in Cirebon, West Java, Indonesia.<br> My Name is Egi Ahmad Baihaqi, 19 years old and currently pursuing an applied bachelor's degree at the Polytechnic Cyber Cerdika International (Poltek SCI).<br><br> I have a strong interest in Anime 🎌, Artificial Intelligence (AI) 🧠, and Crypto Currency 👑
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1menNjeDE2OXhpano2ZDg0em5maHU4cndudmxuZTQ3ZmMxZHNuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n5ckuFVteRoUuvyHbQ/giphy.gif" width="33.33%" alt="Anime"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXo5ZHdwNngxcHNuZjd2a3BtMXljeHRqZ2NwbmRkd2ozd2loMHExdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif" width="33.33%" alt="Ai"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh5Y2djZjFoM2s5ZGVidDIwMTNzYmNsdml2NjJveG5lMmVkazhndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7HdhQA4ffttvrO/giphy.gif" width="33.33%" alt="pump">
 
 # <img src="https://cdn-icons-png.flaticon.com/512/4861/4861937.png" width="30" alt="Web">&nbsp; Sosial Media, Contact and Portofolio :
 
@@ -147,5 +147,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/3ggie-ab/3ggie-ab/output/snake.svg" alt="Snake animation" />
-
-###
