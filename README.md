@@ -137,8 +137,6 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/1170/1170616.png" width="30" alt="Web">&nbsp; GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=3ggie-AB&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=3ggie-AB&theme=dark&hide_border=false" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ggie-AB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%">
 
 # <img src="https://cdn-icons-png.flaticon.com/512/2223/2223102.png" width="30" alt="Laptop">&nbsp; My Skill :
